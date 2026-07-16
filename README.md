@@ -24,3 +24,8 @@ Here are some ideas to get you started:
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jakesdupreez/jakesdupreez/output/pacman-contribution-graph.svg">
     <img alt="[game-name] contribution graph" src="https://raw.githubusercontent.com/jakesdupreez/jakesdupreez/output/pacman-contribution-graph.svg">
 </picture>
+
+
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
