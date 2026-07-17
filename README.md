@@ -28,9 +28,7 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-27-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -71,16 +69,27 @@ Sunday                   28 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Johannesburg
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Dart                     2 hrs 24 mins       ████████████░░░░░░░░░░░░░   46.76 % 
+C#                       1 hr 8 mins         ██████░░░░░░░░░░░░░░░░░░░   22.02 % 
+YAML                     33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
+XML                      31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
+Markdown                 17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Claude Code              4 hrs 50 mins       ███████████████████████░░   93.89 % 
+VS Code                  11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+PyCharm                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
+WebStorm                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+gurulucy                 3 hrs 38 mins       ██████████████████░░░░░░░   70.62 % 
+AuxconAPIDotNet6         52 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
+LucyDaGuru               17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
+ARCollections            10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+quipu                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  5 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -100,5 +109,5 @@ Dart                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jakesdupreez/jakesdupreez/main/assets/bar_graph.png)
 
 
- Last Updated on 16/07/2026 18:50:11 UTC
+ Last Updated on 17/07/2026 18:48:09 UTC
 <!--END_SECTION:waka-->
