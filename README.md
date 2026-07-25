@@ -28,40 +28,40 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-24%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-24%20hrs%2020%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-27-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 216.6 kB Used in GitHub's Storage 
+> 📦 215.9 kB Used in GitHub's Storage 
  > 
-> 🏆 25 Contributions in the Year 2026
+> 🏆 13 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 11 Public Repositories 
+> 📜 6 Public Repositories 
  > 
-> 🔑 5 Private Repositories 
+> 🔑 9 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                144 commits         ████████░░░░░░░░░░░░░░░░░   31.65 % 
-🌆 Daytime                218 commits         ████████████░░░░░░░░░░░░░   47.91 % 
-🌃 Evening                61 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
-🌙 Night                  32 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+🌞 Morning                144 commits         ████████░░░░░░░░░░░░░░░░░   31.72 % 
+🌆 Daytime                217 commits         ████████████░░░░░░░░░░░░░   47.80 % 
+🌃 Evening                61 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
+🌙 Night                  32 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   51 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
-Tuesday                  30 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
-Wednesday                52 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
-Thursday                 185 commits         ██████████░░░░░░░░░░░░░░░   40.66 % 
-Friday                   48 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
-Saturday                 61 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
-Sunday                   28 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
+Monday                   51 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
+Tuesday                  30 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
+Wednesday                51 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
+Thursday                 185 commits         ██████████░░░░░░░░░░░░░░░   40.75 % 
+Friday                   48 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
+Saturday                 61 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
+Sunday                   28 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
 ```
 
 
@@ -71,37 +71,37 @@ Sunday                   28 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Johannesburg
 
 💬 Programming Languages: 
-XML                      1 hr 9 mins         ████████░░░░░░░░░░░░░░░░░   30.31 % 
-Markdown                 1 hr 5 mins         ███████░░░░░░░░░░░░░░░░░░   28.60 % 
-C#                       21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
-Binary                   18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
-SQL                      17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
+C#                       50 mins             █████░░░░░░░░░░░░░░░░░░░░   19.89 % 
+XML                      48 mins             █████░░░░░░░░░░░░░░░░░░░░   19.12 % 
+Markdown                 47 mins             █████░░░░░░░░░░░░░░░░░░░░   18.68 % 
+TypeScript               26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
+Binary                   25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
 
 🔥 Editors: 
-Visual Studio            1 hr 49 mins        ████████████░░░░░░░░░░░░░   47.69 % 
-Claude Code              1 hr 30 mins        ██████████░░░░░░░░░░░░░░░   39.44 % 
-VS Code                  13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
-DataGrip                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
-WebStorm                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+Visual Studio            2 hrs 36 mins       ███████████████░░░░░░░░░░   61.74 % 
+Claude Code              1 hr 13 mins        ███████░░░░░░░░░░░░░░░░░░   29.19 % 
+VS Code                  22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
+PyCharm                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 🐱‍💻 Projects: 
-AuxAttorney              1 hr 22 mins        █████████░░░░░░░░░░░░░░░░   35.88 % 
-ARCollections            1 hr 13 mins        ████████░░░░░░░░░░░░░░░░░   32.33 % 
-abacus-src               1 hr 8 mins         ████████░░░░░░░░░░░░░░░░░   30.10 % 
-AuxCollections.Client    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+AuxAttorney              2 hrs 22 mins       ██████████████░░░░░░░░░░░   56.47 % 
+abacus-src               1 hr 8 mins         ███████░░░░░░░░░░░░░░░░░░   27.19 % 
+BrunoVehicleHire         14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
+backend                  14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
+bruno-frontend           12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
 
 💻 Operating System: 
-Windows                  3 hrs 48 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 13 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   6 repos             ██████████████░░░░░░░░░░░   54.55 % 
-C#                       2 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-TSQL                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-TypeScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Dart                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Python                   5 repos             ████████████░░░░░░░░░░░░░   50.00 % 
+C#                       2 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+TSQL                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+TypeScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Dart                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
 ```
 
 
@@ -111,5 +111,5 @@ Dart                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jakesdupreez/jakesdupreez/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 19:00:23 UTC
+ Last Updated on 25/07/2026 18:47:55 UTC
 <!--END_SECTION:waka-->
