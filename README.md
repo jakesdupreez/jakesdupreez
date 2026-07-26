@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-24%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-24%20hrs%208%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-27-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-28-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -71,27 +71,27 @@ Sunday                   28 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Johannesburg
 
 💬 Programming Languages: 
-C#                       50 mins             █████░░░░░░░░░░░░░░░░░░░░   19.89 % 
-XML                      48 mins             █████░░░░░░░░░░░░░░░░░░░░   19.12 % 
-Markdown                 47 mins             █████░░░░░░░░░░░░░░░░░░░░   18.68 % 
-TypeScript               26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
-Binary                   25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
+C#                       59 mins             ██████░░░░░░░░░░░░░░░░░░░   22.37 % 
+XML                      48 mins             █████░░░░░░░░░░░░░░░░░░░░   18.26 % 
+Markdown                 47 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.84 % 
+TypeScript               29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
+Binary                   25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
 
 🔥 Editors: 
-Visual Studio            2 hrs 36 mins       ███████████████░░░░░░░░░░   61.74 % 
-Claude Code              1 hr 13 mins        ███████░░░░░░░░░░░░░░░░░░   29.19 % 
-VS Code                  22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
-PyCharm                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+Visual Studio            2 hrs 36 mins       ███████████████░░░░░░░░░░   58.95 % 
+Claude Code              1 hr 25 mins        ████████░░░░░░░░░░░░░░░░░   32.38 % 
+VS Code                  22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
+PyCharm                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 🐱‍💻 Projects: 
-AuxAttorney              2 hrs 22 mins       ██████████████░░░░░░░░░░░   56.47 % 
-abacus-src               1 hr 8 mins         ███████░░░░░░░░░░░░░░░░░░   27.19 % 
-BrunoVehicleHire         14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
-backend                  14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
-bruno-frontend           12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
+AuxAttorney              2 hrs 22 mins       █████████████░░░░░░░░░░░░   53.92 % 
+abacus-src               1 hr 8 mins         ██████░░░░░░░░░░░░░░░░░░░   25.97 % 
+BrunoVehicleHire         14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
+backend                  14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
+bruno-frontend           12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
 
 💻 Operating System: 
-Windows                  4 hrs 13 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -111,5 +111,5 @@ Dart                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jakesdupreez/jakesdupreez/main/assets/bar_graph.png)
 
 
- Last Updated on 25/07/2026 18:47:55 UTC
+ Last Updated on 26/07/2026 18:48:16 UTC
 <!--END_SECTION:waka-->
