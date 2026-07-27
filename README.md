@@ -28,7 +28,9 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-24%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-23%20hrs%2045%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-22%20hrs%2011%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-28-blue?style=flat)
 
@@ -71,27 +73,51 @@ Sunday                   28 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Johannesburg
 
 💬 Programming Languages: 
-C#                       59 mins             ██████░░░░░░░░░░░░░░░░░░░   22.37 % 
-XML                      48 mins             █████░░░░░░░░░░░░░░░░░░░░   18.26 % 
-Markdown                 47 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.84 % 
-TypeScript               29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
-Binary                   25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
+C#                       1 hr 8 mins         ██████░░░░░░░░░░░░░░░░░░░   23.88 % 
+XML                      48 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.92 % 
+Markdown                 47 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
+JSON                     34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
+TypeScript               30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
 
 🔥 Editors: 
-Visual Studio            2 hrs 36 mins       ███████████████░░░░░░░░░░   58.95 % 
-Claude Code              1 hr 25 mins        ████████░░░░░░░░░░░░░░░░░   32.38 % 
-VS Code                  22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
-PyCharm                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+Visual Studio            2 hrs 46 mins       ███████████████░░░░░░░░░░   58.32 % 
+Claude Code              1 hr 36 mins        ████████░░░░░░░░░░░░░░░░░   33.65 % 
+VS Code                  22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
+PyCharm                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 🐱‍💻 Projects: 
-AuxAttorney              2 hrs 22 mins       █████████████░░░░░░░░░░░░   53.92 % 
-abacus-src               1 hr 8 mins         ██████░░░░░░░░░░░░░░░░░░░   25.97 % 
-BrunoVehicleHire         14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
-backend                  14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
-bruno-frontend           12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
+AuxAttorney              2 hrs 22 mins       ████████████░░░░░░░░░░░░░   49.99 % 
+abacus-src               1 hr 8 mins         ██████░░░░░░░░░░░░░░░░░░░   24.07 % 
+AuxconAPIDotNet6         17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
+BrunoVehicleHire         14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
+backend                  14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
 
 💻 Operating System: 
-Windows                  4 hrs 25 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 45 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 2 hrs 49 mins (59.24%)
+
+✍️ 1,645 lines written by AI, 2 lines written by hand (99.88% AI-written)
+
+🔤 7,181,996 Input Tokens, 60,384 Output Tokens
+
+💵 $18.82 Estimated AI Cost This Week
+
+🧠 12 AI Sessions, 41 AI Prompts
+
+Opus                     1,592 lines         ███████████████████████░░   93.92 % 
+Sonnet                   56 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
+Haiku                    47 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.88% of written lines came from AI
+📄 Detailed Prompter — average 1,485 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.36% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -111,5 +137,5 @@ Dart                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jakesdupreez/jakesdupreez/main/assets/bar_graph.png)
 
 
- Last Updated on 26/07/2026 18:48:16 UTC
+ Last Updated on 27/07/2026 18:59:40 UTC
 <!--END_SECTION:waka-->
