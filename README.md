@@ -28,10 +28,6 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-25%20hrs%2036%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-24%20hrs%2029%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -46,80 +42,6 @@ Here are some ideas to get you started:
  > 
 > 🔑 9 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                144 commits         ████████░░░░░░░░░░░░░░░░░   31.72 % 
-🌆 Daytime                217 commits         ████████████░░░░░░░░░░░░░   47.80 % 
-🌃 Evening                61 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
-🌙 Night                  32 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   51 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
-Tuesday                  30 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
-Wednesday                51 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
-Thursday                 185 commits         ██████████░░░░░░░░░░░░░░░   40.75 % 
-Friday                   48 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
-Saturday                 61 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
-Sunday                   28 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Africa/Johannesburg
-
-💬 Programming Languages: 
-Other                    1 hr 2 mins         ██████████░░░░░░░░░░░░░░░   41.36 % 
-C#                       36 mins             ██████░░░░░░░░░░░░░░░░░░░   23.98 % 
-TypeScript               20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
-Markdown                 14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
-XML                      14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
-
-🔥 Editors: 
-Claude Code              2 hrs 5 mins        █████████████████████░░░░   82.96 % 
-Visual Studio            22 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
-VS Code                  3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
-
-🐱‍💻 Projects: 
-AuxconAPIDotNet6         1 hr 3 mins         ██████████░░░░░░░░░░░░░░░   41.63 % 
-AuxAttorney              36 mins             ██████░░░░░░░░░░░░░░░░░░░   23.89 % 
-Auxcon Collections       22 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
-Auxcon Functions         14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
-AuxAgent                 12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
-
-💻 Operating System: 
-Windows                  2 hrs 31 mins       █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 2 hrs 5 mins (82.93%)
-
-✍️ 711 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 8,745,679 Input Tokens, 52,254 Output Tokens
-
-💵 $54.14 Estimated AI Cost This Week
-
-🧠 9 AI Sessions, 30 AI Prompts
-
-Opus                     2,768 lines         ██████████████████████░░░   89.06 % 
-Sonnet                   331 lines           ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
-Haiku                    9 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 361 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -137,5 +59,5 @@ Dart                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jakesdupreez/jakesdupreez/main/assets/bar_graph.png)
 
 
- Last Updated on 05/08/2026 20:03:53 UTC
+ Last Updated on 07/08/2026 00:22:14 UTC
 <!--END_SECTION:waka-->
