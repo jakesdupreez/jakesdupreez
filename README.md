@@ -73,46 +73,43 @@ Sunday                   28 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Johannesburg
 
 💬 Programming Languages: 
-Other                    52 mins             ████████████░░░░░░░░░░░░░   49.41 % 
-C#                       33 mins             ████████░░░░░░░░░░░░░░░░░   31.79 % 
-XML                      11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
-Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
-TypeScript               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+Other                    52 mins             ████████████████░░░░░░░░░   64.60 % 
+C#                       12 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
+XML                      11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
+Markdown                 5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
 
 🔥 Editors: 
-Claude Code              1 hr 23 mins        ████████████████████░░░░░   78.05 % 
-Visual Studio            19 mins             █████░░░░░░░░░░░░░░░░░░░░   18.76 % 
-VS Code                  3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+Claude Code              1 hr 21 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-AuxconAPIDotNet6         50 mins             ████████████░░░░░░░░░░░░░   47.61 % 
-AuxAttorney              36 mins             ████████░░░░░░░░░░░░░░░░░   33.99 % 
-Auxcon Functions         14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
-Auxcon Collections       5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
+AuxconAPIDotNet6         50 mins             ████████████████░░░░░░░░░   62.24 % 
+Auxcon Functions         14 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
+AuxAttorney              11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
+Auxcon Collections       5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
 
 💻 Operating System: 
-Windows                  1 hr 46 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 21 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 23 mins (78.05%)
+⏱ AI Coding Time: 1 hr 21 mins (100.0%)
 
 ✍️ 644 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 3,356,727 Input Tokens, 12,872 Output Tokens
+🔤 3,092,870 Input Tokens, 11,547 Output Tokens
 
-💵 $17.15 Estimated AI Cost This Week
+💵 $16.75 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 13 AI Prompts
+🧠 4 AI Sessions, 12 AI Prompts
 
 Opus                     380 lines           ███████████████░░░░░░░░░░   59.01 % 
 Sonnet                   264 lines           ██████████░░░░░░░░░░░░░░░   40.99 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 400 characters per prompt
+📝 Concise Prompter — average 408 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -134,5 +131,5 @@ Dart                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jakesdupreez/jakesdupreez/main/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 19:27:22 UTC
+ Last Updated on 08/08/2026 19:07:22 UTC
 <!--END_SECTION:waka-->
