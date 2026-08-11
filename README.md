@@ -73,43 +73,22 @@ Sunday                   28 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Johannesburg
 
 💬 Programming Languages: 
-Other                    52 mins             ███████████████████░░░░░░   74.68 % 
-C#                       12 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
-Markdown                 5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Claude Code              1 hr 9 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-AuxconAPIDotNet6         50 mins             ██████████████████░░░░░░░   71.93 % 
-Auxcon Functions         14 mins             █████░░░░░░░░░░░░░░░░░░░░   20.46 % 
-Auxcon Collections       5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 9 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 9 mins (100.0%)
-
-✍️ 644 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 2,539,727 Input Tokens, 7,403 Output Tokens
-
-💵 $13.88 Estimated AI Cost This Week
-
-🧠 3 AI Sessions, 9 AI Prompts
-
-Opus                     380 lines           ███████████████░░░░░░░░░░   59.01 % 
-Sonnet                   264 lines           ██████████░░░░░░░░░░░░░░░   40.99 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 532 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -129,5 +108,5 @@ Dart                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jakesdupreez/jakesdupreez/main/assets/bar_graph.png)
 
 
- Last Updated on 10/08/2026 19:28:58 UTC
+ Last Updated on 11/08/2026 19:32:40 UTC
 <!--END_SECTION:waka-->
