@@ -73,22 +73,38 @@ Sunday                   28 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Johannesburg
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    1 min               █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Claude Code              1 min               █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Auxcon Functions         1 min               █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 min               █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 1 min (100.0%)
+
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+
+🔤 115,496 Input Tokens, 602 Output Tokens
+
+💵 $2.33 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 2 AI Prompts
+
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📄 Detailed Prompter — average 1,310 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -108,5 +124,5 @@ Dart                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jakesdupreez/jakesdupreez/main/assets/bar_graph.png)
 
 
- Last Updated on 13/08/2026 19:33:38 UTC
+ Last Updated on 14/08/2026 19:26:43 UTC
 <!--END_SECTION:waka-->
