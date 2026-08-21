@@ -73,38 +73,45 @@ Sunday                   28 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Johannesburg
 
 💬 Programming Languages: 
-Other                    1 min               █████████████████████████   100.00 % 
+C#                       42 mins             ████████████████░░░░░░░░░   62.37 % 
+JSON                     9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
+Markdown                 6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
+HTML                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
+XML                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
 
 🔥 Editors: 
-Claude Code              1 min               █████████████████████████   100.00 % 
+Claude Code              1 hr 2 mins         ███████████████████████░░   92.42 % 
+WebStorm                 5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
 
 🐱‍💻 Projects: 
-Auxcon Functions         1 min               █████████████████████████   100.00 % 
+AuxconAPIDotNet6         1 hr                ██████████████████████░░░   88.91 % 
+AuxCollections.Client    5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
+Auxcon_Web               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
 
 💻 Operating System: 
-Windows                  1 min               █████████████████████████   100.00 % 
+Windows                  1 hr 7 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 min (100.0%)
+⏱ AI Coding Time: 1 hr 2 mins (92.42%)
 
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+✍️ 94 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 115,496 Input Tokens, 602 Output Tokens
+🔤 336,704 Input Tokens, 47,773 Output Tokens
 
-💵 $2.33 Estimated AI Cost This Week
+💵 $4.43 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 4 AI Prompts
+🧠 3 AI Sessions, 14 AI Prompts
 
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sonnet                   130 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📄 Detailed Prompter — average 811 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 304 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -124,5 +131,5 @@ Dart                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jakesdupreez/jakesdupreez/main/assets/bar_graph.png)
 
 
- Last Updated on 20/08/2026 19:09:40 UTC
+ Last Updated on 21/08/2026 19:06:08 UTC
 <!--END_SECTION:waka-->
