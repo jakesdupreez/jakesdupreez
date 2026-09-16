@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-52%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-52%20hrs%206%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-45%20hrs%206%20mins-blue?style=flat)
 
@@ -73,51 +73,51 @@ Sunday                   32 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Johannesburg
 
 💬 Programming Languages: 
-C#                       3 hrs 44 mins       ███████░░░░░░░░░░░░░░░░░░   28.75 % 
-TypeScript               2 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.92 % 
-Binary                   1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
-Other                    1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
-JSON                     1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
+C#                       3 hrs 34 mins       ███████░░░░░░░░░░░░░░░░░░   27.44 % 
+TypeScript               2 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
+Binary                   1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
+Markdown                 1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
+JSON                     1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
 
 🔥 Editors: 
-Claude Code              8 hrs 53 mins       █████████████████░░░░░░░░   68.45 % 
-Visual Studio            2 hrs 27 mins       █████░░░░░░░░░░░░░░░░░░░░   18.96 % 
-VS Code                  1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
-DataGrip                 24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+Claude Code              8 hrs 32 mins       ████████████████░░░░░░░░░   65.52 % 
+Visual Studio            2 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   19.48 % 
+VS Code                  1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
+DataGrip                 28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
 WebStorm                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
 
 🐱‍💻 Projects: 
-ARCollections            10 hrs 54 mins      █████████████████████░░░░   83.96 % 
-abacus-src               1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
+ARCollections            10 hrs 58 mins      █████████████████████░░░░   84.17 % 
+abacus-src               1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
+CustomerManagement       23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
 Unknown Project          11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
 AuxCollections.Client    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
-AuxconAPIDotNet6         2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 
 💻 Operating System: 
-Windows                  12 hrs 59 mins      █████████████████████████   100.00 % 
+Windows                  13 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 21 mins (79.66%)
+⏱ AI Coding Time: 9 hrs 58 mins (76.56%)
 
-✍️ 2,566 lines written by AI, 523 lines written by hand (83.07% AI-written)
+✍️ 2,566 lines written by AI, 531 lines written by hand (82.85% AI-written)
 
-🔤 5,891,662 Input Tokens, 637,413 Output Tokens
+🔤 5,245,735 Input Tokens, 618,046 Output Tokens
 
-💵 $86.12 Estimated AI Cost This Week
+💵 $83.94 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 121 AI Prompts
+🧠 12 AI Sessions, 118 AI Prompts
 
 Sonnet                   1,512 lines         █████████████░░░░░░░░░░░░   53.07 % 
 Opus                     1,337 lines         ████████████░░░░░░░░░░░░░   46.93 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 83.07% of written lines came from AI
-📄 Detailed Prompter — average 589 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 18.48% of changed lines were hand-edited
+🤖 AI-Driven — 82.85% of written lines came from AI
+📄 Detailed Prompter — average 555 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🚀 High AI Trust — 18.67% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -137,5 +137,5 @@ Dart                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jakesdupreez/jakesdupreez/main/assets/bar_graph.png)
 
 
- Last Updated on 15/09/2026 21:34:25 UTC
+ Last Updated on 16/09/2026 21:29:37 UTC
 <!--END_SECTION:waka-->
