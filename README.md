@@ -73,50 +73,48 @@ Sunday                   32 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Johannesburg
 
 💬 Programming Languages: 
-Other                    58 mins             ████████░░░░░░░░░░░░░░░░░   33.21 % 
-JSON                     42 mins             ██████░░░░░░░░░░░░░░░░░░░   24.32 % 
-Markdown                 31 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.87 % 
-XML                      13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
-C#                       12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
+Other                    2 hrs 18 mins       ███████████████░░░░░░░░░░   60.15 % 
+JSON                     39 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
+C#                       13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Markdown                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
+XML                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
 
 🔥 Editors: 
-Claude Code              1 hr 32 mins        █████████████░░░░░░░░░░░░   52.72 % 
-Visual Studio            55 mins             ████████░░░░░░░░░░░░░░░░░   31.73 % 
-VS Code                  23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
-DataGrip                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
+Claude Code              2 hrs 54 mins       ███████████████████░░░░░░   75.88 % 
+Visual Studio            51 mins             ██████░░░░░░░░░░░░░░░░░░░   22.34 % 
+VS Code                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
 
 🐱‍💻 Projects: 
-interview-coach-agent-fra1 hr 5 mins         █████████░░░░░░░░░░░░░░░░   37.17 % 
-azure-finops-agent       58 mins             ████████░░░░░░░░░░░░░░░░░   33.47 % 
-CustomerManagement       23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-dupre                    17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
-InterviewCoach           6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+azure-finops-agent       2 hrs 20 mins       ███████████████░░░░░░░░░░   61.10 % 
+interview-coach-agent-fra1 hr 5 mins         ███████░░░░░░░░░░░░░░░░░░   28.54 % 
+dupre                    17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
+InterviewCoach           6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
 
 💻 Operating System: 
-Windows                  2 hrs 56 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 49 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 41 mins (57.5%)
+⏱ AI Coding Time: 3 hrs 2 mins (79.55%)
 
-✍️ 190 lines written by AI, 9 lines written by hand (95.48% AI-written)
+✍️ 190 lines written by AI, 1 lines written by hand (99.48% AI-written)
 
-🔤 230,100 Input Tokens, 31,792 Output Tokens
+🔤 418,196 Input Tokens, 48,258 Output Tokens
 
-💵 $1.12 Estimated AI Cost This Week
+💵 $1.87 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 43 AI Prompts
+🧠 8 AI Sessions, 60 AI Prompts
 
 Sonnet                   188 lines           █████████████████████████   98.95 % 
 Haiku                    2 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.48% of written lines came from AI
-📝 Concise Prompter — average 169 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 4.52% of changed lines were hand-edited
+🤖 AI-Driven — 99.48% of written lines came from AI
+📝 Concise Prompter — average 181 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 0.52% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -136,5 +134,5 @@ Dart                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jakesdupreez/jakesdupreez/main/assets/bar_graph.png)
 
 
- Last Updated on 22/09/2026 21:32:00 UTC
+ Last Updated on 23/09/2026 21:37:58 UTC
 <!--END_SECTION:waka-->
