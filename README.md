@@ -73,47 +73,44 @@ Sunday                   32 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Johannesburg
 
 💬 Programming Languages: 
-Other                    1 hr 34 mins        ██████████████░░░░░░░░░░░   57.47 % 
-C#                       50 mins             ████████░░░░░░░░░░░░░░░░░   30.67 % 
-Markdown                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
-JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
-PowerShell               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+C#                       46 mins             ██████████████░░░░░░░░░░░   56.30 % 
+Other                    35 mins             ███████████░░░░░░░░░░░░░░   42.76 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 44 mins       █████████████████████████   99.81 % 
-Visual Studio            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+Claude Code              1 hr 23 mins        █████████████████████████   99.96 % 
+Visual Studio            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🐱‍💻 Projects: 
-azure-finops-agent       2 hrs 21 mins       ██████████████████████░░░   86.13 % 
-dupre                    18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
-interview-coach-agent-fra3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
-InterviewCoach           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+azure-finops-agent       1 hr 23 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 44 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 23 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 44 mins (99.82%)
+⏱ AI Coding Time: 1 hr 23 mins (100.0%)
 
-✍️ 188 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 847,598 Input Tokens, 66,690 Output Tokens
+🔤 412,709 Input Tokens, 27,429 Output Tokens
 
-💵 $3.22 Estimated AI Cost This Week
+💵 $1.52 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 71 AI Prompts
+🧠 1 AI Sessions, 23 AI Prompts
 
-Sonnet                   188 lines           █████████████████████████   100.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 234 characters per prompt
-🔁 Iterative Prompter — average 12 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 194 characters per prompt
+🔁 Iterative Prompter — average 23 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -133,5 +130,5 @@ Dart                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jakesdupreez/jakesdupreez/main/assets/bar_graph.png)
 
 
- Last Updated on 28/09/2026 23:25:10 UTC
+ Last Updated on 29/09/2026 22:28:10 UTC
 <!--END_SECTION:waka-->
