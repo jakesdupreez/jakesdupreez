@@ -73,45 +73,47 @@ Sunday                   32 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Johannesburg
 
 💬 Programming Languages: 
-Markdown                 39 mins             ████████░░░░░░░░░░░░░░░░░   31.21 % 
-Other                    37 mins             ████████░░░░░░░░░░░░░░░░░   30.01 % 
-C#                       28 mins             ██████░░░░░░░░░░░░░░░░░░░   23.06 % 
-XML                      18 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
-Microsoft Visual Studio S0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+Markdown                 49 mins             ████████░░░░░░░░░░░░░░░░░   31.41 % 
+C#                       40 mins             ██████░░░░░░░░░░░░░░░░░░░   25.67 % 
+Other                    37 mins             ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
+XML                      18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
+JSON                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 5 mins        █████████████████████████   100.00 % 
+Claude Code              2 hrs 15 mins       █████████████████████░░░░   85.33 % 
+VS Code                  23 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
 
 🐱‍💻 Projects: 
-Pro Systems              1 hr 21 mins        ████████████████░░░░░░░░░   64.95 % 
-interview-coach-agent-fra43 mins             █████████░░░░░░░░░░░░░░░░   34.76 % 
-ProSystems               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+Pro Systems              1 hr 31 mins        ██████████████░░░░░░░░░░░   57.85 % 
+interview-coach-agent-fra53 mins             ████████░░░░░░░░░░░░░░░░░   33.74 % 
+CustomerManagement       12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
+ProSystems               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 💻 Operating System: 
-Windows                  2 hrs 5 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 38 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 5 mins (100.0%)
+⏱ AI Coding Time: 2 hrs 15 mins (85.33%)
 
-✍️ 245 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 341 lines written by AI, 30 lines written by hand (91.91% AI-written)
 
-🔤 425,971 Input Tokens, 55,841 Output Tokens
+🔤 541,081 Input Tokens, 63,023 Output Tokens
 
-💵 $2.06 Estimated AI Cost This Week
+💵 $2.43 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 30 AI Prompts
+🧠 5 AI Sessions, 31 AI Prompts
 
-Sonnet                   232 lines           ██████████████████████░░░   88.55 % 
-Haiku                    30 lines            ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
+Sonnet                   323 lines           ███████████████████████░░   90.22 % 
+Haiku                    35 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 290 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🤖 AI-Driven — 91.91% of written lines came from AI
+📝 Concise Prompter — average 289 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 7.73% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -131,5 +133,5 @@ Dart                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jakesdupreez/jakesdupreez/main/assets/bar_graph.png)
 
 
- Last Updated on 03/10/2026 21:35:58 UTC
+ Last Updated on 04/10/2026 21:43:19 UTC
 <!--END_SECTION:waka-->
