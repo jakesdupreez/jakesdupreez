@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-56%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-57%20hrs%2032%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-50%20hrs%2026%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-51%20hrs%2019%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -73,47 +73,49 @@ Sunday                   32 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Johannesburg
 
 💬 Programming Languages: 
-Markdown                 49 mins             ████████░░░░░░░░░░░░░░░░░   31.41 % 
-C#                       40 mins             ██████░░░░░░░░░░░░░░░░░░░   25.67 % 
-Other                    37 mins             ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
-XML                      18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
-JSON                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
+Markdown                 1 hr 1 min          ███████░░░░░░░░░░░░░░░░░░   28.92 % 
+Other                    50 mins             ██████░░░░░░░░░░░░░░░░░░░   24.06 % 
+C#                       45 mins             █████░░░░░░░░░░░░░░░░░░░░   21.64 % 
+XML                      21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
+JSON                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 15 mins       █████████████████████░░░░   85.33 % 
-VS Code                  23 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
+Claude Code              3 hrs 8 mins        ██████████████████████░░░   89.01 % 
+VS Code                  23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
 
 🐱‍💻 Projects: 
-Pro Systems              1 hr 31 mins        ██████████████░░░░░░░░░░░   57.85 % 
-interview-coach-agent-fra53 mins             ████████░░░░░░░░░░░░░░░░░   33.74 % 
-CustomerManagement       12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
-ProSystems               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+Pro Systems              1 hr 31 mins        ███████████░░░░░░░░░░░░░░   43.35 % 
+interview-coach-agent-fra54 mins             ██████░░░░░░░░░░░░░░░░░░░   25.93 % 
+AuxAgent                 51 mins             ██████░░░░░░░░░░░░░░░░░░░   24.42 % 
+CustomerManagement       12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
+ProSystems               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 💻 Operating System: 
-Windows                  2 hrs 38 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 31 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 15 mins (85.33%)
+⏱ AI Coding Time: 3 hrs 8 mins (89.01%)
 
-✍️ 341 lines written by AI, 30 lines written by hand (91.91% AI-written)
+✍️ 1,116 lines written by AI, 30 lines written by hand (97.38% AI-written)
 
-🔤 541,081 Input Tokens, 63,023 Output Tokens
+🔤 844,248 Input Tokens, 115,880 Output Tokens
 
-💵 $2.43 Estimated AI Cost This Week
+💵 $6.34 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 31 AI Prompts
+🧠 7 AI Sessions, 36 AI Prompts
 
-Sonnet                   323 lines           ███████████████████████░░   90.22 % 
-Haiku                    35 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
+Opus                     794 lines           █████████████████░░░░░░░░   68.92 % 
+Sonnet                   323 lines           ███████░░░░░░░░░░░░░░░░░░   28.04 % 
+Haiku                    35 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 91.91% of written lines came from AI
-📝 Concise Prompter — average 289 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 7.73% of changed lines were hand-edited
+🤖 AI-Driven — 97.38% of written lines came from AI
+📝 Concise Prompter — average 334 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 2.54% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -133,5 +135,5 @@ Dart                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jakesdupreez/jakesdupreez/main/assets/bar_graph.png)
 
 
- Last Updated on 06/10/2026 00:13:10 UTC
+ Last Updated on 06/10/2026 22:43:38 UTC
 <!--END_SECTION:waka-->
