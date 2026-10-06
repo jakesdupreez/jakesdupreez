@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-56%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-56%20hrs%2052%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-50%20hrs%2016%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-50%20hrs%2026%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -49,21 +49,21 @@ Here are some ideas to get you started:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                144 commits         ████████░░░░░░░░░░░░░░░░░   31.30 % 
-🌆 Daytime                222 commits         ████████████░░░░░░░░░░░░░   48.26 % 
-🌃 Evening                62 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
-🌙 Night                  32 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
+🌞 Morning                144 commits         ████████░░░░░░░░░░░░░░░░░   31.24 % 
+🌆 Daytime                223 commits         ████████████░░░░░░░░░░░░░   48.37 % 
+🌃 Evening                62 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
+🌙 Night                  32 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   51 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
-Tuesday                  30 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
-Wednesday                52 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
-Thursday                 185 commits         ██████████░░░░░░░░░░░░░░░   40.22 % 
-Friday                   48 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
-Saturday                 62 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
-Sunday                   32 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
+Monday                   52 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
+Tuesday                  30 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
+Wednesday                52 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
+Thursday                 185 commits         ██████████░░░░░░░░░░░░░░░   40.13 % 
+Friday                   48 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
+Saturday                 62 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
+Sunday                   32 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
 ```
 
 
@@ -133,5 +133,5 @@ Dart                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jakesdupreez/jakesdupreez/main/assets/bar_graph.png)
 
 
- Last Updated on 04/10/2026 21:43:19 UTC
+ Last Updated on 06/10/2026 00:13:10 UTC
 <!--END_SECTION:waka-->
