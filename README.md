@@ -73,49 +73,48 @@ Sunday                   32 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Johannesburg
 
 💬 Programming Languages: 
-Markdown                 1 hr 29 mins        █████████░░░░░░░░░░░░░░░░   35.44 % 
-Other                    50 mins             █████░░░░░░░░░░░░░░░░░░░░   20.27 % 
-C#                       45 mins             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-XML                      18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
-VB.NET                   15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
+Markdown                 59 mins             ███████████░░░░░░░░░░░░░░   45.20 % 
+C#                       16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
+VB.NET                   15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
+Other                    13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
+JSON                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
 
 🔥 Editors: 
-Claude Code              3 hrs 22 mins       ████████████████████░░░░░   80.54 % 
-VS Code                  48 mins             █████░░░░░░░░░░░░░░░░░░░░   19.46 % 
+Claude Code              1 hr 14 mins        ██████████████░░░░░░░░░░░   56.46 % 
+VS Code                  57 mins             ███████████░░░░░░░░░░░░░░   43.54 % 
 
 🐱‍💻 Projects: 
-Pro Systems              2 hrs 16 mins       ██████████████░░░░░░░░░░░   54.26 % 
-AuxAgent                 51 mins             █████░░░░░░░░░░░░░░░░░░░░   20.57 % 
-interview-coach-agent-fra49 mins             █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
-CustomerManagement       12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
-ProSystems               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+Pro Systems              1 hr 2 mins         ████████████░░░░░░░░░░░░░   47.73 % 
+AuxAgent                 44 mins             ████████░░░░░░░░░░░░░░░░░   33.76 % 
+CustomerManagement       12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
+interview-coach-agent-fra11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
 
 💻 Operating System: 
-Windows                  4 hrs 11 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 22 mins (80.54%)
+⏱ AI Coding Time: 1 hr 14 mins (56.46%)
 
-✍️ 1,636 lines written by AI, 33 lines written by hand (98.02% AI-written)
+✍️ 1,478 lines written by AI, 33 lines written by hand (97.82% AI-written)
 
-🔤 1,709,017 Input Tokens, 137,143 Output Tokens
+🔤 1,348,016 Input Tokens, 91,813 Output Tokens
 
-💵 $16.33 Estimated AI Cost This Week
+💵 $14.60 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 40 AI Prompts
+🧠 4 AI Sessions, 12 AI Prompts
 
-Opus                     1,401 lines         █████████████████████░░░░   83.79 % 
-Sonnet                   236 lines           ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
-Haiku                    35 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+Opus                     1,401 lines         ███████████████████████░░   93.59 % 
+Sonnet                   91 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
+Haiku                    5 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.02% of written lines came from AI
-📚 Verbose Prompter — average 4,041 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 2.05% of changed lines were hand-edited
+🤖 AI-Driven — 97.82% of written lines came from AI
+📚 Verbose Prompter — average 12,776 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 2.35% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -135,5 +134,5 @@ Dart                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jakesdupreez/jakesdupreez/main/assets/bar_graph.png)
 
 
- Last Updated on 07/10/2026 23:14:10 UTC
+ Last Updated on 08/10/2026 23:29:09 UTC
 <!--END_SECTION:waka-->
