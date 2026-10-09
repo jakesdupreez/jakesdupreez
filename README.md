@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-58%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-58%20hrs%2032%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-51%20hrs%2038%20mins-blue?style=flat)
 
@@ -73,30 +73,30 @@ Sunday                   32 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Johannesburg
 
 💬 Programming Languages: 
-Markdown                 59 mins             ███████████░░░░░░░░░░░░░░   45.20 % 
-C#                       16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
-VB.NET                   15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
-Other                    13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
-JSON                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
+Markdown                 59 mins             ██████████░░░░░░░░░░░░░░░   40.61 % 
+JSON                     25 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
+C#                       16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
+VB.NET                   15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+Other                    13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
 
 🔥 Editors: 
-Claude Code              1 hr 14 mins        ██████████████░░░░░░░░░░░   56.46 % 
-VS Code                  57 mins             ███████████░░░░░░░░░░░░░░   43.54 % 
+Claude Code              1 hr 14 mins        █████████████░░░░░░░░░░░░   50.71 % 
+VS Code                  1 hr 11 mins        ████████████░░░░░░░░░░░░░   49.29 % 
 
 🐱‍💻 Projects: 
-Pro Systems              1 hr 2 mins         ████████████░░░░░░░░░░░░░   47.73 % 
-AuxAgent                 44 mins             ████████░░░░░░░░░░░░░░░░░   33.76 % 
-CustomerManagement       12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
-interview-coach-agent-fra11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
+Pro Systems              1 hr 2 mins         ███████████░░░░░░░░░░░░░░   42.87 % 
+AuxAgent                 44 mins             ████████░░░░░░░░░░░░░░░░░   30.33 % 
+CustomerManagement       27 mins             █████░░░░░░░░░░░░░░░░░░░░   19.06 % 
+interview-coach-agent-fra11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
 
 💻 Operating System: 
-Windows                  2 hrs 11 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 14 mins (56.46%)
+⏱ AI Coding Time: 1 hr 14 mins (50.71%)
 
 ✍️ 1,478 lines written by AI, 33 lines written by hand (97.82% AI-written)
 
@@ -134,5 +134,5 @@ Dart                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jakesdupreez/jakesdupreez/main/assets/bar_graph.png)
 
 
- Last Updated on 08/10/2026 23:29:09 UTC
+ Last Updated on 09/10/2026 22:47:22 UTC
 <!--END_SECTION:waka-->
