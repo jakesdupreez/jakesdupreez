@@ -49,21 +49,21 @@ Here are some ideas to get you started:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                144 commits         ████████░░░░░░░░░░░░░░░░░   31.17 % 
-🌆 Daytime                224 commits         ████████████░░░░░░░░░░░░░   48.48 % 
-🌃 Evening                62 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
-🌙 Night                  32 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
+🌞 Morning                145 commits         ████████░░░░░░░░░░░░░░░░░   31.25 % 
+🌆 Daytime                225 commits         ████████████░░░░░░░░░░░░░   48.49 % 
+🌃 Evening                62 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
+🌙 Night                  32 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   52 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
-Tuesday                  30 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
-Wednesday                52 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
-Thursday                 185 commits         ██████████░░░░░░░░░░░░░░░   40.04 % 
-Friday                   48 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
-Saturday                 63 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
-Sunday                   32 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
+Monday                   52 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
+Tuesday                  30 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
+Wednesday                52 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
+Thursday                 185 commits         ██████████░░░░░░░░░░░░░░░   39.87 % 
+Friday                   48 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+Saturday                 63 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
+Sunday                   34 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
 ```
 
 
@@ -73,48 +73,50 @@ Sunday                   32 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Johannesburg
 
 💬 Programming Languages: 
-Markdown                 59 mins             ██████████░░░░░░░░░░░░░░░   40.61 % 
-JSON                     25 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
-C#                       16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
-VB.NET                   15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-Other                    13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
+Markdown                 1 hr 8 mins         █████████░░░░░░░░░░░░░░░░   35.11 % 
+YAML                     20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
+JSON                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
+XML                      16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
+Other                    16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
 
 🔥 Editors: 
-Claude Code              1 hr 14 mins        █████████████░░░░░░░░░░░░   50.71 % 
-VS Code                  1 hr 11 mins        ████████████░░░░░░░░░░░░░   49.29 % 
+Claude Code              1 hr 40 mins        █████████████░░░░░░░░░░░░   51.49 % 
+VS Code                  49 mins             ██████░░░░░░░░░░░░░░░░░░░   25.31 % 
+Android Studio           35 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.92 % 
+WebStorm                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
 
 🐱‍💻 Projects: 
-Pro Systems              1 hr 2 mins         ███████████░░░░░░░░░░░░░░   42.87 % 
-AuxAgent                 44 mins             ████████░░░░░░░░░░░░░░░░░   30.33 % 
-CustomerManagement       27 mins             █████░░░░░░░░░░░░░░░░░░░░   19.06 % 
-interview-coach-agent-fra11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
+gurulucy                 57 mins             ███████░░░░░░░░░░░░░░░░░░   29.36 % 
+Pro Systems              52 mins             ███████░░░░░░░░░░░░░░░░░░   26.70 % 
+AuxAgent                 44 mins             ██████░░░░░░░░░░░░░░░░░░░   22.61 % 
+ARCollections            19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
+CustomerManagement       15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
 
 💻 Operating System: 
-Windows                  2 hrs 25 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 15 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 14 mins (50.71%)
+⏱ AI Coding Time: 1 hr 40 mins (51.53%)
 
-✍️ 1,478 lines written by AI, 33 lines written by hand (97.82% AI-written)
+✍️ 1,421 lines written by AI, 3 lines written by hand (99.79% AI-written)
 
-🔤 1,348,016 Input Tokens, 91,813 Output Tokens
+🔤 1,685,692 Input Tokens, 112,482 Output Tokens
 
-💵 $14.60 Estimated AI Cost This Week
+💵 $19.04 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 12 AI Prompts
+🧠 7 AI Sessions, 19 AI Prompts
 
-Opus                     1,401 lines         ███████████████████████░░   93.59 % 
-Sonnet                   91 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
-Haiku                    5 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+Opus                     1,451 lines         █████████████████████████   100.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.82% of written lines came from AI
-📚 Verbose Prompter — average 12,776 characters per prompt
+🤖 AI-Driven — 99.79% of written lines came from AI
+📚 Verbose Prompter — average 9,345 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 2.35% of changed lines were hand-edited
+🚀 High AI Trust — 1.02% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -134,5 +136,5 @@ Dart                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jakesdupreez/jakesdupreez/main/assets/bar_graph.png)
 
 
- Last Updated on 10/10/2026 21:54:26 UTC
+ Last Updated on 11/10/2026 22:11:15 UTC
 <!--END_SECTION:waka-->
