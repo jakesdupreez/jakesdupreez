@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-64%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-65%20hrs%204%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-55%20hrs%2049%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-56%20hrs%2018%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -73,34 +73,34 @@ Sunday                   34 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Johannesburg
 
 💬 Programming Languages: 
-SQL                      1 hr 52 mins        ██████░░░░░░░░░░░░░░░░░░░   25.27 % 
-Markdown                 1 hr 23 mins        █████░░░░░░░░░░░░░░░░░░░░   18.88 % 
-C#                       43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
-Other                    41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
-TypeScript               31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
+SQL                      1 hr 52 mins        ███████░░░░░░░░░░░░░░░░░░   26.14 % 
+Markdown                 1 hr 23 mins        █████░░░░░░░░░░░░░░░░░░░░   19.53 % 
+C#                       43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
+Other                    41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
+TypeScript               31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
 
 🔥 Editors: 
-Claude Code              4 hrs 38 mins       ████████████████░░░░░░░░░   62.79 % 
-DataGrip                 1 hr 44 mins        ██████░░░░░░░░░░░░░░░░░░░   23.45 % 
-Android Studio           35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
-VS Code                  15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
-WebStorm                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+Claude Code              4 hrs 38 mins       ████████████████░░░░░░░░░   64.96 % 
+DataGrip                 1 hr 44 mins        ██████░░░░░░░░░░░░░░░░░░░   24.26 % 
+Android Studio           35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
+WebStorm                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 🐱‍💻 Projects: 
-ARCollections            5 hrs 16 mins       ██████████████████░░░░░░░   71.20 % 
-gurulucy                 57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
-AuxAttorney              29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
-Pro Systems              20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-CustomerManagement       15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
+ARCollections            5 hrs 16 mins       ██████████████████░░░░░░░   73.66 % 
+gurulucy                 57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
+AuxAttorney              29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
+Pro Systems              20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+Auxcon Collections       5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
 
 💻 Operating System: 
-Windows                  7 hrs 24 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 40 mins (63.04%)
+⏱ AI Coding Time: 4 hrs 40 mins (65.22%)
 
 ✍️ 1,199 lines written by AI, 126 lines written by hand (90.49% AI-written)
 
@@ -137,5 +137,5 @@ Dart                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jakesdupreez/jakesdupreez/main/assets/bar_graph.png)
 
 
- Last Updated on 15/10/2026 21:34:54 UTC
+ Last Updated on 16/10/2026 21:27:56 UTC
 <!--END_SECTION:waka-->
