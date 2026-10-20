@@ -28,15 +28,15 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-65%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-65%20hrs%2053%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-56%20hrs%2024%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-57%20hrs-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 216.3 kB Used in GitHub's Storage 
+> 📦 216.4 kB Used in GitHub's Storage 
  > 
 > 🏆 15 Contributions in the Year 2026
  > 
@@ -73,46 +73,47 @@ Sunday                   34 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Johannesburg
 
 💬 Programming Languages: 
-SQL                      1 hr 48 mins        ██████████████░░░░░░░░░░░   55.79 % 
-Markdown                 52 mins             ███████░░░░░░░░░░░░░░░░░░   27.03 % 
-VB.NET                   17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
-C#                       12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+SQL                      1 hr 48 mins        ██████████████░░░░░░░░░░░   57.49 % 
+Markdown                 46 mins             ██████░░░░░░░░░░░░░░░░░░░   24.52 % 
+VB.NET                   17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
+C#                       9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+Text                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
 
 🔥 Editors: 
-DataGrip                 1 hr 40 mins        █████████████░░░░░░░░░░░░   52.07 % 
-Claude Code              1 hr 32 mins        ████████████░░░░░░░░░░░░░   47.93 % 
+DataGrip                 1 hr 40 mins        █████████████░░░░░░░░░░░░   53.66 % 
+Claude Code              1 hr 27 mins        ████████████░░░░░░░░░░░░░   46.34 % 
 
 🐱‍💻 Projects: 
-ARCollections            1 hr 57 mins        ███████████████░░░░░░░░░░   60.80 % 
-AuxAttorney              29 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
-AuxconAPIDotNet6         26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
-Pro Systems              20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
+ARCollections            1 hr 47 mins        ██████████████░░░░░░░░░░░   57.35 % 
+AuxAttorney              29 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
+AuxconAPIDotNet6         26 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
+Pro Systems              20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
+AuxAgent                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
 
 💻 Operating System: 
-Windows                  3 hrs 13 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 8 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 35 mins (49.1%)
+⏱ AI Coding Time: 1 hr 29 mins (47.55%)
 
-✍️ 723 lines written by AI, 138 lines written by hand (83.97% AI-written)
+✍️ 594 lines written by AI, 138 lines written by hand (81.15% AI-written)
 
-🔤 1,158,519 Input Tokens, 135,827 Output Tokens
+🔤 1,254,577 Input Tokens, 145,022 Output Tokens
 
-💵 $11.81 Estimated AI Cost This Week
+💵 $12.70 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 13 AI Prompts
+🧠 6 AI Sessions, 12 AI Prompts
 
-Opus                     723 lines           █████████████████████████   100.00 % 
+Opus                     594 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 83.97% of written lines came from AI
-📄 Detailed Prompter — average 1,411 characters per prompt
+🤖 AI-Driven — 81.15% of written lines came from AI
+📚 Verbose Prompter — average 1,505 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 18.4% of changed lines were hand-edited
+🚀 High AI Trust — 21.53% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -132,5 +133,5 @@ Dart                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jakesdupreez/jakesdupreez/main/assets/bar_graph.png)
 
 
- Last Updated on 19/10/2026 22:31:48 UTC
+ Last Updated on 20/10/2026 21:46:31 UTC
 <!--END_SECTION:waka-->
