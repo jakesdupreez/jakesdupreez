@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
-> 📦 216.3 kB Used in GitHub's Storage 
+> 📦 216.4 kB Used in GitHub's Storage 
  > 
 > 🏆 15 Contributions in the Year 2026
  > 
@@ -73,44 +73,43 @@ Sunday                   34 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Johannesburg
 
 💬 Programming Languages: 
-SQL                      1 hr 54 mins        ████████████████████░░░░░   78.88 % 
-Markdown                 23 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
-Text                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
-C#                       2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+SQL                      1 hr 54 mins        ████████████████████░░░░░   79.09 % 
+Markdown                 23 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
+Text                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
 
 🔥 Editors: 
-DataGrip                 1 hr 47 mins        ██████████████████░░░░░░░   73.93 % 
-Claude Code              37 mins             ███████░░░░░░░░░░░░░░░░░░   26.07 % 
+DataGrip                 1 hr 47 mins        ███████████████████░░░░░░   74.29 % 
+Claude Code              37 mins             ██████░░░░░░░░░░░░░░░░░░░   25.71 % 
 
 🐱‍💻 Projects: 
-ARCollections            1 hr 54 mins        ████████████████████░░░░░   78.70 % 
-AuxconAPIDotNet6         26 mins             █████░░░░░░░░░░░░░░░░░░░░   18.38 % 
-AuxAgent                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+ARCollections            1 hr 54 mins        ████████████████████░░░░░   79.09 % 
+AuxconAPIDotNet6         23 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
+AuxAgent                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
 
 💻 Operating System: 
-Windows                  2 hrs 25 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 39 mins (26.92%)
+⏱ AI Coding Time: 38 mins (26.56%)
 
-✍️ 465 lines written by AI, 142 lines written by hand (76.61% AI-written)
+✍️ 492 lines written by AI, 142 lines written by hand (77.6% AI-written)
 
-🔤 748,911 Input Tokens, 90,960 Output Tokens
+🔤 407,686 Input Tokens, 91,370 Output Tokens
 
-💵 $7.92 Estimated AI Cost This Week
+💵 $5.59 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 2 AI Prompts
+🧠 3 AI Sessions, 1 AI Prompts
 
-Opus                     465 lines           █████████████████████████   100.00 % 
+Opus                     492 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 76.61% of written lines came from AI
-📝 Concise Prompter — average 264 characters per prompt
+🤖 AI-Driven — 77.6% of written lines came from AI
+📝 Concise Prompter — average 55 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
-🚀 High AI Trust — 41.14% of changed lines were hand-edited
+🚀 High AI Trust — 39.78% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -130,5 +129,5 @@ Dart                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jakesdupreez/jakesdupreez/main/assets/bar_graph.png)
 
 
- Last Updated on 24/10/2026 21:01:23 UTC
+ Last Updated on 25/10/2026 21:01:44 UTC
 <!--END_SECTION:waka-->
