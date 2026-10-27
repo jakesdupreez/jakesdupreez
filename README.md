@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
-> 📦 216.3 kB Used in GitHub's Storage 
+> 📦 216.4 kB Used in GitHub's Storage 
  > 
 > 🏆 15 Contributions in the Year 2026
  > 
@@ -73,41 +73,22 @@ Sunday                   34 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Johannesburg
 
 💬 Programming Languages: 
-SQL                      1 hr 39 mins        ███████████████████████░░   93.89 % 
-Text                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
+SQL                      1 hr 39 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-DataGrip                 1 hr 39 mins        ███████████████████████░░   93.89 % 
-Claude Code              6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
+DataGrip                 1 hr 39 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ARCollections            1 hr 39 mins        ███████████████████████░░   93.89 % 
-AuxAgent                 6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
+ARCollections            1 hr 39 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 46 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 39 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 mins (6.11%)
-
-✍️ 0 lines written by AI, 113 lines written by hand (0.0% AI-written)
-
-🔤 157,540 Input Tokens, 32,336 Output Tokens
-
-💵 $2.23 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 0 AI Prompts
-
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 0 characters per prompt
-🎯 One-Shot Prompter — average 0 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -127,5 +108,5 @@ Dart                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jakesdupreez/jakesdupreez/main/assets/bar_graph.png)
 
 
- Last Updated on 26/10/2026 22:48:24 UTC
+ Last Updated on 27/10/2026 22:27:58 UTC
 <!--END_SECTION:waka-->
