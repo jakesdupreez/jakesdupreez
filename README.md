@@ -30,13 +30,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-67%20hrs%2033%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-57%20hrs-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-57%20hrs%2016%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 216.4 kB Used in GitHub's Storage 
+> 📦 216.3 kB Used in GitHub's Storage 
  > 
 > 🏆 15 Contributions in the Year 2026
  > 
@@ -73,22 +73,41 @@ Sunday                   34 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Johannesburg
 
 💬 Programming Languages: 
-SQL                      1 hr 39 mins        █████████████████████████   100.00 % 
+SQL                      1 hr 39 mins        ██████████████████████░░░   86.14 % 
+Other                    16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
 
 🔥 Editors: 
-DataGrip                 1 hr 39 mins        █████████████████████████   100.00 % 
+DataGrip                 1 hr 39 mins        ██████████████████████░░░   86.14 % 
+Claude Code              16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
 
 🐱‍💻 Projects: 
-ARCollections            1 hr 39 mins        █████████████████████████   100.00 % 
+ARCollections            1 hr 39 mins        ██████████████████████░░░   86.14 % 
+repos                    16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
 
 💻 Operating System: 
-Windows                  1 hr 39 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 55 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 16 mins (13.86%)
+
+✍️ 0 lines written by AI, 113 lines written by hand (0.0% AI-written)
+
+🔤 34,345 Input Tokens, 13,367 Output Tokens
+
+💵 $0.45 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 7 AI Prompts
+
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 183 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -108,5 +127,5 @@ Dart                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jakesdupreez/jakesdupreez/main/assets/bar_graph.png)
 
 
- Last Updated on 27/10/2026 22:27:58 UTC
+ Last Updated on 28/10/2026 22:44:35 UTC
 <!--END_SECTION:waka-->
